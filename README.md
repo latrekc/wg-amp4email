@@ -8,7 +8,6 @@ Facilitator: [@nainar](https://github.com/nainar)
 - [@choumx](https://github.com/choumx) - William Chou
 - [@johnbarr](https://github.com/johnbarr) - John Barr
 - [@kaewka](https://github.com/kaewka) - Thanawat Kaewka
-- [@latrekc](https://github.com/latrekc) - Stanislav Tugovikov
 - [@nainar](https://github.com/nainar) - Naina Raisinghani (Facilitator)
 - [@M-J-Robbins](https://github.com/M-J-Robbins) - Mark Robbins
 
